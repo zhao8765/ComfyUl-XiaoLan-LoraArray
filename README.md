@@ -1,4 +1,4 @@
-[Uploading README.md…]()
+[README.md](https://github.com/user-attachments/files/32242135/README.md)
 # 小岚 LoRA 阵列 · XiaoLanLoraArray
 
 **一个只把 LoRA 加载到 `MODEL`、完全不碰 CLIP 的 ComfyUI LoRA 栈加载器。**
