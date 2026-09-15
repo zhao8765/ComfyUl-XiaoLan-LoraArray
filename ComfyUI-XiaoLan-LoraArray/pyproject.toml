@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-xiaolan-lora-array"
+description = "小岚lora阵列：每行一个 LoRA（文件|权重|触发词），顶部总开关一键启停，只作用于 MODEL。"
+version = "1.0.0"
+license = "MIT"
+dependencies = []
+
+[project.node-blacklist]
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "小岚 LoRA 阵列"
+Icon = ""
