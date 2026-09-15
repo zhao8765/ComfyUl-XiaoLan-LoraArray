@@ -14,6 +14,8 @@
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8A%82%E7%82%B9-blue)
 
 ![依赖](https://img.shields.io/badge/%E4%BE%9D%E8%B5%96-%E6%97%A0-success)
+![Uploading QQ20260915-210158.png…]()
+
 
 <p align="center">  
   <img src="docs/images/node-prompt.png" width="860" alt="小岚lora阵列 + 提示词">  
